@@ -10,7 +10,7 @@ public class Main {
       Turtle triYertle = new Turtle(150, 150, world);
 
       // draw square with yertle
-      yertle.setPenWidth(3);
+      yertle.setPenWidth(2);
       yertle.setColor(Color.red);
       yertle.forward(100);
       yertle.turnLeft();
